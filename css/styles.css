@@ -1,0 +1,14 @@
+body {
+  background: rgb(0,144,255);
+  background: linear-gradient(190deg, rgba(0,144,255,1) 0%, rgba(0,191,255,1) 50%, rgba(157,238,255,1) 100%);
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+* {
+  font-family: courier;
+  color: white;
+}
+#hello {
+  padding: 10px;
+}
